@@ -13,6 +13,6 @@ growth of multicellular tumor spheroids. Nature biotechnology 15, 778–783.
 Cappello G, Joanny JFmc. 2011 Stress Clamp Experiments on Multicellular Tumor Spheroids.
 Phys. Rev. Lett. 107, 188102. (10.1103/PhysRevLett.107.188102)
 
-All the data for figures in our paper are in https://doi.org/10.6084/m9.figshare.26793028.v1
+All the data for figures in our paper are in  https://doi.org/10.6084/m9.figshare.26793028.v1
 
 
